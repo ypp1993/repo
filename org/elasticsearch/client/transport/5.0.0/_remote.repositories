@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:38:45 CST 2016
+transport-5.0.0.jar>central=
+transport-5.0.0.jar>nexus=
+transport-5.0.0.pom>central=
+transport-5.0.0-sources.jar>nexus=
+transport-5.0.0.pom>nexus=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 20:01:37 CST 2017
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1483963297430
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:sources\:4.0.9.RELEASE from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: Failed to transfer http\://maven.letv.cn/nexus/content/groups/public/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE-sources.jar. Error code 504, Gateway Time-out

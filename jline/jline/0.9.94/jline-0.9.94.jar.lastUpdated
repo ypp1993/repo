@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:26:30 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458258230529
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458258499348
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266417509
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458258291478
+default-http\://maven.twttr.com/.lastUpdated=1458258305970
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458258235240
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326390230
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact jline\:jline\:jar\:0.9.94 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/jline/jline/0.9.94/jline-0.9.94.jar

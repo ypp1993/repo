@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 13 18:21:18 CST 2016
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1481624478405
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact org.ansj\:ansj_seg\:pom\:1.4.1 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: Failed to transfer http\://maven.letv.cn/nexus/content/groups/public/org/ansj/ansj_seg/1.4.1/ansj_seg-1.4.1.pom. Error code 504, Gateway Time-out

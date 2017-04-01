@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:55:06 CST 2016
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact org.scala-lang\:scala-compiler\:jar\:sources\:2.10.0 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: No response received after 60000
+e42934ca88b64b6a72282b1400467e11d44b4909@default-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459328106967

@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:17 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458227267331
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458227285271
+@default-apache-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458227281090
+http\://maven.twttr.com/.lastUpdated=1458227281995
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458227271090
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460629006257
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact jline\:jline\:pom\:0.9.94 from/to apache (https\://repository.apache.org/content/repositories/releases)\: connect timed out
+http\://maven.twttr.com/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281837892

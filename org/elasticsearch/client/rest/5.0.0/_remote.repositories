@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:38:45 CST 2016
+rest-5.0.0.jar>nexus=
+rest-5.0.0.jar>central=
+rest-5.0.0.pom>central=
+rest-5.0.0.pom>nexus=

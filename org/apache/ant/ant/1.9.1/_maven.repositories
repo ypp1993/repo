@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:00:52 CST 2016
+ant-1.9.1.jar>nexus=
+ant-1.9.1-sources.jar>nexus=
+ant-1.9.1.jar>central=
+ant-1.9.1.pom>apache=
+ant-1.9.1.pom>central=
+ant-1.9.1-javadoc.jar>nexus=
+ant-1.9.1.jar>apache=
+ant-1.9.1.pom>nexus=

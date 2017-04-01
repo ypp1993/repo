@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:10 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458212209878
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458212216286
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458212213528
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458212211402
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460628991570
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact org.glassfish\:api-pom\:pom\:3.1 from/to twitter (http\://maven.twttr.com/)\: maven.twttr.com
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281830029
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458212215786

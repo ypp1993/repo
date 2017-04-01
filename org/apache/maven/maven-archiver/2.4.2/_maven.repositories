@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 18 13:09:25 CST 2016
+maven-archiver-2.4.2.jar>central=
+maven-archiver-2.4.2.pom>nexus=
+maven-archiver-2.4.2.jar>nexus=
+maven-archiver-2.4.2.pom>central=

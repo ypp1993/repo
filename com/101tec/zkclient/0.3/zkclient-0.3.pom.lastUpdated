@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:39:47 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458257606981
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458257629851
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266330760
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458257618666
+default-http\://maven.twttr.com/.lastUpdated=1458257628962
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458257617246
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330787987
+http\://maven.twttr.com/.error=Could not transfer artifact com.101tec\:zkclient\:pom\:0.3 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/com/101tec/zkclient/0.3/zkclient-0.3.pom
+https\://repository.apache.org/content/repositories/releases/.error=

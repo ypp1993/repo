@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:22:21 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458231486342
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458231501490
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266260082
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458231489728
+default-http\://maven.twttr.com/.lastUpdated=1458231500039
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458231488386
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326141978
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact oro\:oro\:pom\:2.0.8 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/oro/oro/2.0.8/oro-2.0.8.pom

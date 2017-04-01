@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 16 20:13:30 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1458277740832
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1463400810587
+e42934ca88b64b6a72282b1400467e11d44b4909@default-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1458277560137
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:jar\:2.3.1 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

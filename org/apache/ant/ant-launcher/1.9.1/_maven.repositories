@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:00:56 CST 2016
+ant-launcher-1.9.1-sources.jar>nexus=
+ant-launcher-1.9.1.jar>nexus=
+ant-launcher-1.9.1.pom>nexus=
+ant-launcher-1.9.1.pom>apache=
+ant-launcher-1.9.1.jar>apache=
+ant-launcher-1.9.1.jar>central=
+ant-launcher-1.9.1.pom>central=

@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:26:34 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458258230529
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458258501844
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266417540
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458258292024
+default-http\://maven.twttr.com/.lastUpdated=1458258305970
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458258235240
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326394451
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact org.json4s\:json4s-jackson_2.10\:jar\:3.2.10 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10.jar

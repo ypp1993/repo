@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:04:12 CST 2016
+metrics-core-2.2.0.pom>central=
+metrics-core-2.2.0.jar>central2=
+metrics-core-2.2.0.pom>central2=
+metrics-core-2.2.0-sources.jar>nexus=
+metrics-core-2.2.0.pom>nexus=
+metrics-core-2.2.0.jar>nexus=
+metrics-core-2.2.0-javadoc.jar>nexus=
+metrics-core-2.2.0.jar>central=

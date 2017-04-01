@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:23 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458227689108
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458227756422
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458227705129
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458227690449
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460629015544
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact com.google.guava\:guava\:pom\:14.0.1 from/to twitter (http\://maven.twttr.com/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281843181
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458227715347

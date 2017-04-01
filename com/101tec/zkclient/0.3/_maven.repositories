@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:04:18 CST 2016
+zkclient-0.3-sources.jar>nexus=
+zkclient-0.3-javadoc.jar>nexus=
+zkclient-0.3.jar>central2=
+zkclient-0.3.pom>central2=
+zkclient-0.3.pom>nexus=
+zkclient-0.3.jar>nexus=
+zkclient-0.3.jar>central=
+zkclient-0.3.pom>central=

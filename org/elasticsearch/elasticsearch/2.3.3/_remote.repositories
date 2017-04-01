@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 16:14:49 CST 2016
+elasticsearch-2.3.3-sources.jar>nexus=
+elasticsearch-2.3.3.pom>nexus=
+elasticsearch-2.3.3.jar>nexus=

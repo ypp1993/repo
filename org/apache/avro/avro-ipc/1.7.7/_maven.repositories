@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:03:30 CST 2016
+avro-ipc-1.7.7.pom>nexus=
+avro-ipc-1.7.7.pom>apache=
+avro-ipc-1.7.7-sources.jar>nexus=
+avro-ipc-1.7.7-tests.jar>apache=
+avro-ipc-1.7.7-tests.jar>nexus=
+avro-ipc-1.7.7-tests.jar>central=
+avro-ipc-1.7.7.jar>nexus=
+avro-ipc-1.7.7-javadoc.jar>nexus=
+avro-ipc-1.7.7.jar>apache=
+avro-ipc-1.7.7.jar>central=
+avro-ipc-1.7.7.pom>central=

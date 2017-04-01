@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:57:27 CST 2016
+metrics-jvm-3.1.0.jar>central2=
+metrics-jvm-3.1.0.pom>central2=
+metrics-jvm-3.1.0-sources.jar>nexus=
+metrics-jvm-3.1.0-javadoc.jar>nexus=
+metrics-jvm-3.1.0.jar>nexus=
+metrics-jvm-3.1.0.pom>nexus=
+metrics-jvm-3.1.0.jar>central=
+metrics-jvm-3.1.0.pom>central=

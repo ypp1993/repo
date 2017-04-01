@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:03:16 CST 2016
+avro-mapred-1.7.7.pom>central=
+avro-mapred-1.7.7-hadoop2.jar>central=
+avro-mapred-1.7.7-hadoop2.jar>apache=
+avro-mapred-1.7.7.pom>nexus=
+avro-mapred-1.7.7-sources.jar>nexus=
+avro-mapred-1.7.7.pom>apache=
+avro-mapred-1.7.7-javadoc.jar>nexus=
+avro-mapred-1.7.7-hadoop2.jar>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 13 16:58:46 CST 2016
+cassandra-all-2.0.8-javadoc.jar>nexus=
+cassandra-all-2.0.8.pom>nexus=
+cassandra-all-2.0.8.jar>nexus=
+cassandra-all-2.0.8-sources.jar>nexus=

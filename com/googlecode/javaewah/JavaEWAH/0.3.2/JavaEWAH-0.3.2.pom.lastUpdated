@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:39:33 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458257252624
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458257268319
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266322998
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458257256135
+default-http\://maven.twttr.com/.lastUpdated=1458257266697
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458257254386
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330773469
+http\://maven.twttr.com/.error=Could not transfer artifact com.googlecode.javaewah\:JavaEWAH\:pom\:0.3.2 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/com/googlecode/javaewah/JavaEWAH/0.3.2/JavaEWAH-0.3.2.pom
+https\://repository.apache.org/content/repositories/releases/.error=

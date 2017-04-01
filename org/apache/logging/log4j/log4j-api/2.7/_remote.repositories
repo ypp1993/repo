@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:38:45 CST 2016
+log4j-api-2.7.jar>nexus=
+log4j-api-2.7.jar>central=
+log4j-api-2.7.pom>nexus=
+log4j-api-2.7.pom>central=

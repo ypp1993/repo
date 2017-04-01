@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:38:23 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458233498817
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458233517631
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266278603
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458233503326
+default-http\://maven.twttr.com/.lastUpdated=1458233513637
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458233500018
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330703275
+http\://maven.twttr.com/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:pom\:1.0.5 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/org/xerial/snappy/snappy-java/1.0.5/snappy-java-1.0.5.pom
+https\://repository.apache.org/content/repositories/releases/.error=

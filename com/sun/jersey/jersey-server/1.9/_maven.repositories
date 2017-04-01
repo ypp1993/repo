@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:39:25 CST 2016
+jersey-server-1.9.jar>nexus=
+jersey-server-1.9-sources.jar>nexus=
+jersey-server-1.9-javadoc.jar>nexus=
+jersey-server-1.9.jar>central=
+jersey-server-1.9.jar>central2=

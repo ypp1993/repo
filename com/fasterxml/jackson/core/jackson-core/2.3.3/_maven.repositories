@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:10:12 CST 2016
+jackson-core-2.3.3-sources.jar>nexus=
+jackson-core-2.3.3-javadoc.jar>nexus=
+jackson-core-2.3.3.pom>nexus=
+jackson-core-2.3.3.jar>nexus=
+jackson-core-2.3.3.jar>central2=
+jackson-core-2.3.3.pom>central2=
+jackson-core-2.3.3.jar>central=
+jackson-core-2.3.3.pom>central=

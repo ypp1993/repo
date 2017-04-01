@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:39:49 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458257640942
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458257655357
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266331259
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458257644437
+default-http\://maven.twttr.com/.lastUpdated=1458257654733
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458257642643
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330789204
+http\://maven.twttr.com/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.14 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/log4j/log4j/1.2.14/log4j-1.2.14.pom
+https\://repository.apache.org/content/repositories/releases/.error=

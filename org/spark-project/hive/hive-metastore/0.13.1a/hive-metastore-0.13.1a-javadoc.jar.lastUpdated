@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:53:51 CST 2016
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact org.spark-project.hive\:hive-metastore\:jar\:javadoc\:0.13.1a from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: Failed to transfer http\://maven.letv.cn/nexus/content/groups/public/org/spark-project/hive/hive-metastore/0.13.1a/hive-metastore-0.13.1a-javadoc.jar. Error code 504, Gateway Time-out
+e42934ca88b64b6a72282b1400467e11d44b4909@default-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459331631434

@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 18 10:00:17 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458258230576
+http\://repo.akka.io/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266417696
+http\://central.maven.org/maven2/.lastUpdated=1458258509348
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458258295113
+default-http\://maven.twttr.com/.lastUpdated=1458258306002
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458258235287
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact net.sf.opencsv\:opencsv\:jar\:2.3 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: connection timed out to http\://maven.letv.cn/nexus/content/groups/public/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
+http\://maven.twttr.com/.error=Could not transfer artifact net.sf.opencsv\:opencsv\:jar\:2.3 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
+https\://repository.apache.org/content/repositories/releases/.error=
+e42934ca88b64b6a72282b1400467e11d44b4909@default-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1458258217534

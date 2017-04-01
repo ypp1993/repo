@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:28 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458228471698
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458228491151
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458228476487
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458228473383
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1458277322432
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact org.slf4j\:slf4j-log4j12\:pom\:1.7.10 from/to twitter (http\://maven.twttr.com/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281848669
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458228486518

@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:36:38 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458201835930
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458201850163
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458201846018
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458201840663
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460628965174
+http\://maven.twttr.com/.error=Could not transfer artifact com.twitter\:chill-java\:pom\:0.5.0 from/to twitter (http\://maven.twttr.com/)\: maven.twttr.com
+https\://repository.apache.org/content/repositories/releases/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281798189
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458201848690

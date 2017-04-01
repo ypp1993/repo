@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:22:15 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458231412136
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458231429392
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266258242
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458231417893
+default-http\://maven.twttr.com/.lastUpdated=1458231428176
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458231414617
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326135651
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact org.scala-lang\:scala-reflect\:pom\:2.10.4 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.pom

@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:57:47 CST 2016
+httpclient-4.1.3-sources.jar>nexus=
+httpclient-4.1.3.pom>nexus=
+httpclient-4.1.3.jar>central=
+httpclient-4.1.3.jar>nexus=
+httpclient-4.1.3.pom>central=
+httpclient-4.1.3.pom>apache=
+httpclient-4.1.3.jar>apache=

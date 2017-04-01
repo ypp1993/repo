@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 20 11:45:28 CST 2016
+spark-sql_2.10-1.5.1-sources.jar>nexus=
+spark-sql_2.10-1.5.1.pom>nexus=
+spark-sql_2.10-1.5.1.jar>nexus=

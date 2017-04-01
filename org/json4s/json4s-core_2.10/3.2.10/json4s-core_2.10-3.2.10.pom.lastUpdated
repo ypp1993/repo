@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:37 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458229035934
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458229532910
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458229517774
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458229038337
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460629042788
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact org.json4s\:json4s-core_2.10\:pom\:3.2.10 from/to twitter (http\://maven.twttr.com/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281857983
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458229527800

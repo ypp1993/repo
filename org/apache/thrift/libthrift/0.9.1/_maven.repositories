@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 13 16:46:12 CST 2016
+libthrift-0.9.1.jar>nexus=
+libthrift-0.9.1-javadoc.jar>nexus=
+libthrift-0.9.1.pom>nexus=

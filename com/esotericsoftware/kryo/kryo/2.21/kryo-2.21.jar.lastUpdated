@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:26:21 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458258230466
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458258495042
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266417384
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458258287968
+default-http\://maven.twttr.com/.lastUpdated=1458258305955
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458258235209
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326381374
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact com.esotericsoftware.kryo\:kryo\:jar\:2.21 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21.jar

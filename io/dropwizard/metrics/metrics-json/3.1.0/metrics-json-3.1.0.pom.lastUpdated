@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:21:59 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458231127480
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458231144343
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266252485
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458231133174
+default-http\://maven.twttr.com/.lastUpdated=1458231143470
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458231128884
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459326119419
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact io.dropwizard.metrics\:metrics-json\:pom\:3.1.0 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/io/dropwizard/metrics/metrics-json/3.1.0/metrics-json-3.1.0.pom

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:46:46 CST 2016
+guava-14.0.1.jar>central=
+guava-14.0.1.jar>nexus=
+guava-14.0.1-sources.jar>nexus=
+guava-14.0.1.jar>central2=
+guava-14.0.1-javadoc.jar>nexus=

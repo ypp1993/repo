@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:15 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458219085166
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458219104426
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458219101536
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458219097430
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1460628999818
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact com.sun.jersey.contribs\:jersey-contribs\:pom\:1.9 from/to twitter (http\://maven.twttr.com/)\: maven.twttr.com
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281835718
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458219103793

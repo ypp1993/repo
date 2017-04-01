@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:06:23 CST 2016
+core-1.1.2.jar>central2=
+core-1.1.2.pom>central2=
+core-1.1.2-sources.jar>nexus=
+core-1.1.2-javadoc.jar>nexus=
+core-1.1.2.jar>central=
+core-1.1.2.pom>central=
+core-1.1.2.pom>nexus=
+core-1.1.2.jar>nexus=

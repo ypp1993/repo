@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:52:51 CST 2016
+hive-metastore-0.13.1a-sources.jar>nexus=
+hive-metastore-0.13.1a.jar>central=
+hive-metastore-0.13.1a.pom>nexus=
+hive-metastore-0.13.1a.pom>central=
+hive-metastore-0.13.1a.jar>central2=
+hive-metastore-0.13.1a.jar>nexus=
+hive-metastore-0.13.1a.pom>central2=

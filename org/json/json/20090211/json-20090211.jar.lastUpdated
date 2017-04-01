@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:48:08 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458258230560
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458258507975
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266417665
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458258294333
+default-http\://maven.twttr.com/.lastUpdated=1458258306002
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458258235271
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459331288238
+http\://maven.twttr.com/.error=Could not transfer artifact org.json\:json\:jar\:20090211 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/org/json/json/20090211/json-20090211.jar
+https\://repository.apache.org/content/repositories/releases/.error=

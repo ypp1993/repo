@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 18 13:04:58 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458261747497
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1458277498476
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1458209810275
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.collections\:google-collections\:jar\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset

@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:39:11 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458234551071
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458234567188
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266308443
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458234555753
+default-http\://maven.twttr.com/.lastUpdated=1458234566065
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458234552350
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330751809
+http\://maven.twttr.com/.error=Could not transfer artifact javax.transaction\:jta\:pom\:1.1 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/javax/transaction/jta/1.1/jta-1.1.pom
+https\://repository.apache.org/content/repositories/releases/.error=

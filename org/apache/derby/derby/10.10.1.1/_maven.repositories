@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:48:05 CST 2016
+derby-10.10.1.1.pom>nexus=
+derby-10.10.1.1.jar>apache=
+derby-10.10.1.1.jar>nexus=
+derby-10.10.1.1.jar>central=
+derby-10.10.1.1.pom>central=
+derby-10.10.1.1.pom>apache=

@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:04:04 CST 2016
+kafka_2.10-0.8.1.1.pom>central=
+kafka_2.10-0.8.1.1-sources.jar>nexus=
+kafka_2.10-0.8.1.1-javadoc.jar>nexus=
+kafka_2.10-0.8.1.1.pom>nexus=
+kafka_2.10-0.8.1.1.jar>nexus=
+kafka_2.10-0.8.1.1.pom>apache=
+kafka_2.10-0.8.1.1.jar>central=
+kafka_2.10-0.8.1.1.jar>apache=

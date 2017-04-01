@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:38:45 CST 2016
+spark-network-common_2.10-1.5.2.jar>nexus=
+spark-network-common_2.10-1.5.2.jar>central=
+spark-network-common_2.10-1.5.2.pom>central=
+spark-network-common_2.10-1.5.2.pom>nexus=

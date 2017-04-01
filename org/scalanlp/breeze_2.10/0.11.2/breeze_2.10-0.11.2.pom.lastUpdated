@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:39:56 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458257729519
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458257742904
+http\://repo.maven.apache.org/maven2/.lastUpdated=1458266334457
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458257731984
+default-http\://maven.twttr.com/.lastUpdated=1458257742296
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458257730814
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1459330796479
+http\://maven.twttr.com/.error=Could not transfer artifact org.scalanlp\:breeze_2.10\:pom\:0.11.2 from/to twitter (http\://maven.twttr.com/)\: connection timed out to http\://maven.twttr.com/org/scalanlp/breeze_2.10/0.11.2/breeze_2.10-0.11.2.pom
+https\://repository.apache.org/content/repositories/releases/.error=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 07 16:27:50 CST 2017
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1486456070187
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact cn.ypp\:userprofile\:jar\:sources\:1.0 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: Failed to transfer http\://maven.letv.cn/nexus/content/groups/public/cn/ypp/userprofile/1.0/userprofile-1.0-sources.jar. Error code 504, Gateway Time-out

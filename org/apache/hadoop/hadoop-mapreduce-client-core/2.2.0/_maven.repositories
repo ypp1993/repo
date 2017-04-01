@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:42:24 CST 2016
+hadoop-mapreduce-client-core-2.2.0.jar>apache=
+hadoop-mapreduce-client-core-2.2.0.jar>nexus=
+hadoop-mapreduce-client-core-2.2.0.jar>central=
+hadoop-mapreduce-client-core-2.2.0-sources.jar>nexus=

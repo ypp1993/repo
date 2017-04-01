@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:59:24 CST 2016
+hive-ant-0.13.1a.pom>nexus=
+hive-ant-0.13.1a.jar>central=
+hive-ant-0.13.1a-sources.jar>nexus=
+hive-ant-0.13.1a.jar>central2=
+hive-ant-0.13.1a.jar>nexus=
+hive-ant-0.13.1a-javadoc.jar>nexus=
+hive-ant-0.13.1a.pom>central2=
+hive-ant-0.13.1a.pom>central=

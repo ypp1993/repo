@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:56:30 CST 2016
+mesos-0.21.0.pom>nexus=
+mesos-0.21.0.pom>apache=
+mesos-0.21.0-shaded-protobuf.jar>central=
+mesos-0.21.0-shaded-protobuf.jar>nexus=
+mesos-0.21.0-sources.jar>nexus=
+mesos-0.21.0-javadoc.jar>nexus=
+mesos-0.21.0-shaded-protobuf.jar>apache=
+mesos-0.21.0.pom>central=

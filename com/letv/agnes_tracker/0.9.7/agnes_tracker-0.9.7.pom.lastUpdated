@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Nov 04 18:51:20 CST 2016
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1478256680313
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact com.letv\:agnes_tracker\:pom\:0.9.7 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: Failed to transfer http\://maven.letv.cn/nexus/content/groups/public/com/letv/agnes_tracker/0.9.7/agnes_tracker-0.9.7.pom. Error code 504, Gateway Time-out

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Apr 28 19:01:28 CST 2016
+guava-11.0.1.pom>nexus=
+guava-11.0.1-sources.jar>nexus=
+guava-11.0.1-javadoc.jar>nexus=

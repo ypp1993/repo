@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 18 13:09:12 CST 2016
+maven-jar-plugin-2.3.2.pom>central=
+maven-jar-plugin-2.3.2.pom>nexus=
+maven-jar-plugin-2.3.2.jar>nexus=
+maven-jar-plugin-2.3.2.jar>central=

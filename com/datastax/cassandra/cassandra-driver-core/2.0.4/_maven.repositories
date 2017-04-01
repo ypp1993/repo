@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:08:33 CST 2016
+cassandra-driver-core-2.0.4.jar>nexus=
+cassandra-driver-core-2.0.4-sources.jar>nexus=
+cassandra-driver-core-2.0.4-javadoc.jar>nexus=
+cassandra-driver-core-2.0.4.pom>nexus=

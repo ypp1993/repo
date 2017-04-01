@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:58:15 CST 2016
+hive-exec-0.13.1a.pom>nexus=
+hive-exec-0.13.1a.jar>nexus=
+hive-exec-0.13.1a.jar>central2=
+hive-exec-0.13.1a.pom>central2=
+hive-exec-0.13.1a-sources.jar>nexus=
+hive-exec-0.13.1a.jar>central=
+hive-exec-0.13.1a.pom>central=

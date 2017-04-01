@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 17:50:16 CST 2016
+scala-compiler-2.10.4-javadoc.jar>nexus=
+scala-compiler-2.10.4.pom>central=
+scala-compiler-2.10.4.jar>central2=
+scala-compiler-2.10.4.pom>central2=
+scala-compiler-2.10.4.pom>nexus=
+scala-compiler-2.10.4.jar>central=
+scala-compiler-2.10.4.jar>nexus=
+scala-compiler-2.10.4-sources.jar>nexus=

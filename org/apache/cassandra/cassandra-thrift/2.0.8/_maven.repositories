@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 13 17:03:27 CST 2016
+cassandra-thrift-2.0.8.jar>nexus=
+cassandra-thrift-2.0.8.pom>nexus=
+cassandra-thrift-2.0.8-sources.jar>nexus=
+cassandra-thrift-2.0.8-javadoc.jar>nexus=

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:50:16 CST 2016
+config-1.2.1.jar>nexus=
+config-1.2.1.jar>central=
+config-1.2.1-sources.jar>nexus=
+config-1.2.1-javadoc.jar>nexus=
+config-1.2.1.jar>central2=

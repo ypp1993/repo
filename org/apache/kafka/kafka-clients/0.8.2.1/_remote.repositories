@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:38:45 CST 2016
+kafka-clients-0.8.2.1.jar>central=
+kafka-clients-0.8.2.1.jar>nexus=
+kafka-clients-0.8.2.1.pom>nexus=
+kafka-clients-0.8.2.1.pom>central=

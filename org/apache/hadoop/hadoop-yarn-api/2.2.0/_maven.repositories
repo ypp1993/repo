@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 16:42:12 CST 2016
+hadoop-yarn-api-2.2.0.jar>apache=
+hadoop-yarn-api-2.2.0.jar>central=
+hadoop-yarn-api-2.2.0-sources.jar>nexus=
+hadoop-yarn-api-2.2.0-javadoc.jar>nexus=
+hadoop-yarn-api-2.2.0.jar>nexus=

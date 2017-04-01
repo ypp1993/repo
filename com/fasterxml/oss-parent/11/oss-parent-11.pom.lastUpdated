@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 15:37:41 CST 2016
+http\://repo.akka.io/releases/.lastUpdated=1458229801482
+http\://repo.akka.io/releases/.error=
+http\://central.maven.org/maven2/.lastUpdated=1458229818878
+https\://repository.apache.org/content/repositories/releases/.lastUpdated=1458229805698
+https\://oss.sonatype.org/content/groups/scala-tools/.lastUpdated=1458229804381
+https\://oss.sonatype.org/content/groups/scala-tools/.error=
+http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1458277871459
+https\://repository.apache.org/content/repositories/releases/.error=
+http\://maven.twttr.com/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:11 from/to twitter (http\://maven.twttr.com/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1479281861770
+@default-twitter-http\://maven.twttr.com/.lastUpdated=1458229815710

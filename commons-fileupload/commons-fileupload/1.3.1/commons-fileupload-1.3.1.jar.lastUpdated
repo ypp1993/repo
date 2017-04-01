@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 20:01:37 CST 2017
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1483963297434
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact commons-fileupload\:commons-fileupload\:jar\:1.3.1 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: The operation was cancelled.

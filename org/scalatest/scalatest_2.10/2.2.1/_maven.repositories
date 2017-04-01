@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 30 18:11:22 CST 2016
+scalatest_2.10-2.2.1-javadoc.jar>nexus=
+scalatest_2.10-2.2.1.jar>central=
+scalatest_2.10-2.2.1.pom>central=
+scalatest_2.10-2.2.1.jar>central2=
+scalatest_2.10-2.2.1.pom>nexus=
+scalatest_2.10-2.2.1-sources.jar>nexus=
+scalatest_2.10-2.2.1.pom>central2=
+scalatest_2.10-2.2.1.jar>nexus=

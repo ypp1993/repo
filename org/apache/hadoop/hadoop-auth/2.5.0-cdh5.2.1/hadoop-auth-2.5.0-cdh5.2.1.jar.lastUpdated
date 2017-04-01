@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 31 14:25:43 CST 2016
+1ab1a8c32e763525d59d0d2d812c94d646eac862@default-nexus-http\://maven.letv.cn/nexus/content/groups/public/.lastUpdated=1464675943734
+http\://maven.letv.cn/nexus/content/groups/public/.error=Could not transfer artifact org.apache.hadoop\:hadoop-auth\:jar\:2.5.0-cdh5.2.1 from/to nexus (http\://maven.letv.cn/nexus/content/groups/public/)\: The operation was cancelled.
